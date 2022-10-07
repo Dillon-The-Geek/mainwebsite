@@ -1,13 +1,15 @@
 .navbar li{    
 display:inline;    
-padding: 20px   
+padding: 20px 
+
     
 }
 
 .navbar ul{
 	
 padding: 0px;
-font-size: 20px;	
+font-size: 20px;
+background-color:green;
 	
 }
 
@@ -15,6 +17,7 @@ font-size: 20px;
 	
 font-family:myfont;	
 font-size: 40px;
+background-color:green;
 	
 }
 

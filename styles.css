@@ -22,7 +22,7 @@ background-color:green;
 	
 }
 
-[href]{
+a[href*="./aboute.html"]{
 	
 color: black;	
 	
